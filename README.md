@@ -44,9 +44,13 @@ You can deploy this template to any of your frontend project
 * [CSS3](https://www.tutorialspoint.com/css/css3_tutorial.htm) - CSS3
 
 ## Project Screenshot
+#### Home Page
 ![Home Page](Home.png)
+#### About us Page
 ![About Us Page](About.png)
+#### Services Page
 ![Services Page](Services.png)
+#### Contact Page
 ![Contact Page](Contact.png)
 
 
@@ -57,6 +61,6 @@ You can deploy this template to any of your frontend project
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 
